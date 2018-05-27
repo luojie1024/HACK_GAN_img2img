@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0f95e784-681c-4ba5-9597-f821eb71a8a3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0f95e784-681c-4ba5-9597-f821eb71a8a3" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,8 +19,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="120" />
-    <option name="y" value="346" />
+    <option name="x" value="138" />
+    <option name="y" value="176" />
     <option name="width" value="1296" />
     <option name="height" value="701" />
   </component>
@@ -50,6 +48,11 @@
             <path>
               <item name="GAN_SERVER" type="b2602c69:ProjectViewProjectNode" />
               <item name="GAN_SERVER" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="GAN_SERVER" type="b2602c69:ProjectViewProjectNode" />
+              <item name="GAN_SERVER" type="462c0819:PsiDirectoryNode" />
+              <item name="GAN_Server" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -92,7 +95,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="120" y="346" width="1296" height="701" extended-state="0" />
+    <frame x="138" y="176" width="1296" height="701" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />

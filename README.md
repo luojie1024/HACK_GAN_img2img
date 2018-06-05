@@ -2,7 +2,18 @@
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
-## Setup
+### Hackx
+[Project URL](https://www.hackx.org/projects/299)
+
+### Team Name
+取个名字真TM难
+
+### Author
+[XueWenLiao](https://github.com/XuewenLiao) 
+ChengChen 
+[LuoJie](https://github.com/luojie1024)
+[LiuDong](https://github.com/1mrliu)  
+WuQin
 
 ### Prerequisites
 - Tensorflow 1.4.1 
@@ -11,6 +22,76 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
 ### Recommended
 - Linux with Tensorflow GPU edition + cuDNN
+
+### LOGO
+![](image/logo.png)
+
+
+### PHOTOS
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394668230.png"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394497926.png"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/o_1cefh9srb1jf11ac312gs19m7pg210.jpg"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394477615.png"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/o_1cefh1f1jikq1311js414i91c0vc.jpg"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394558844.jpg"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394508549.png"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394558794.jpg"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394559033.jpg"/></div>
+
+<div align=center><img width="256" src="https://cdn.hackx.org/undefined_1527394559111.jpg"/></div>
+
+### FEATURES DESCRIPTION
+##### Painting:
+1. Hand-Painted:  users can freely go to paint, without any restrictions.
+2. Eraser: erase the wrong part.
+3. Line: users can only use the line to draw.
+4. Revocation: Users can undo the previous step.
+5. Empty: the user can empty the drawing board.
+6. Generate a picture: Save the picture.
+
+##### Model:
+
+1. Building model: Users can use five label components: walls, doors, windows, eaves and room pillars to help draw.
+
+2. Street View Model: Users can use five label components: roads, lawns, cars, trees, and street lights to help draw.
+
+3. Package Model: the user draws the package.
+
+4. Shoe Model: the user draws shoes.
+
+### Viedo
+[DEMO URL](https://www.bilibili.com/video/av23990741/)
+
+
+### SLIDE DECK
+<div align=center><img width="512" src="image/1.png"/></div>
+
+<div align=center><img width="512" src="image/2.png"/></div>
+
+<div align=center><img width="512" src="image/3.png"/></div>
+
+<div align=center><img width="512" src="image/4.png"/></div>
+
+<div align=center><img width="512" src="image/5.png"/></div>
+
+<div align=center><img width="512" src="image/6.png"/></div>
+
+<div align=center><img width="512" src="image/7.png"/></div>
+
+<div align=center><img width="512" src="image/8.png"/></div>
+
+
+
+## Setup
 
 ### Getting Started
 

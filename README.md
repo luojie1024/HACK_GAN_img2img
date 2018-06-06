@@ -1,5 +1,11 @@
 # HACK_GAN_MB
 
+![](https://img.shields.io/badge/platform-Ubuntu16.04-green.svg)  ![](https://img.shields.io/badge/language-python3.6-green.svg)   ![](https://img.shields.io/badge/Android-7.0-green.svg) 
+![](https://img.shields.io/badge/Tensorflow-1.4.1-green.svg)
+![](https://img.shields.io/badge/Django-2.0.5-green.svg)
+![](https://img.shields.io/badge/djangorestframework-3.8.2-green.svg)
+![](https://img.shields.io/badge/version-v1.0-green.svg) 
+
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
 ### PAPER

@@ -24,6 +24,13 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 - Django 2.0.5
 - djangorestframework 3.8.2  
 
+### CODE
+
+|[Client](https://github.com/XuewenLiao/PaintSole)|[Server](https://github.com/luojie1024/HACK_GAN_MB)|
+-|-
+
+ 
+
 ### RECOMMENDED
 - Linux with Tensorflow GPU edition + cuDNN
 

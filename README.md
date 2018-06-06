@@ -16,7 +16,7 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 + ChengChen 
 + [LuoJie](https://github.com/luojie1024)
 + [LiuDong](https://github.com/1mrliu)  
-+ WuQin
++ [WuQin](https://www.zhihu.com/people/jessiewu-qin/activities) [`Surprise Scene`](https://changba.com/wap/index.php?s=M89dzpF8OTcFqbT_3Qhnyw)
 
 ### PREREQUISITES
 - Android 7.0

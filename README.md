@@ -2,30 +2,36 @@
 
 Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
-### Hackx
+### PAPER
+[Image-to-Image Translation with Conditional Adversarial Nets](https://arxiv.org/abs/1611.07004) [CVPR 2017]
+
+### HACKX
 [Project URL](https://www.hackx.org/projects/299)
 
-### Team Name
+### TEAM NAME
 取个名字真TM难
 
-### Author
+### AUTHOR
 [XueWenLiao](https://github.com/XuewenLiao) 
 ChengChen 
 [LuoJie](https://github.com/luojie1024)
 [LiuDong](https://github.com/1mrliu)  
 WuQin
 
-### Prerequisites
+### PREREQUISITES
+- Android 7.0
 - Tensorflow 1.4.1 
 - Django 2.0.5
 - djangorestframework 3.8.2  
 
-### Recommended
+### RECOMMENDED
 - Linux with Tensorflow GPU edition + cuDNN
 
-### LOGO
-![](image/logo.png)
+### DESCRIPTION
+> Based on GAN technology, quickly transform your own ideas into images and improve communication efficiency. First, use Tensorflow to build GAN models. Second, encapsulate models into functions. Third, use Django framework to build servers and provide APIs for clients to use. The fourth use of Android to build a client. GAN neural network will be hand-drawn sketches of the user into a very realistic picture.
 
+### LOGO
+<div align=center><img width="256" src="image/logo.png"/></div>
 
 ### PHOTOS
 
@@ -58,7 +64,7 @@ WuQin
 5. Empty: the user can empty the drawing board.
 6. Generate a picture: Save the picture.
 
-##### Model:
+##### MODEL:
 
 1. Building model: Users can use five label components: walls, doors, windows, eaves and room pillars to help draw.
 
@@ -68,7 +74,7 @@ WuQin
 
 4. Shoe Model: the user draws shoes.
 
-### Viedo
+### VIEDO
 [DEMO URL](https://www.bilibili.com/video/av23990741/)
 
 
@@ -89,8 +95,6 @@ WuQin
 
 <div align=center><img width="512" src="image/8.png"/></div>
 
-
-
 ## Setup
 
 ### Getting Started
@@ -100,7 +104,9 @@ WuQin
 git clone git@github.com:luojie1024/HACK_GAN_MB.git
 cd HACK_GAN_MB
 ```
+[Server Settings](https://blog.csdn.net/luojie140/article/details/76832749)
 
+### DataSet
 
 | dataset | example |
 | --- | --- |

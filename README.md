@@ -12,11 +12,11 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 取个名字真TM难
 
 ### AUTHOR
-[XueWenLiao](https://github.com/XuewenLiao) 
-ChengChen 
-[LuoJie](https://github.com/luojie1024)
-[LiuDong](https://github.com/1mrliu)  
-WuQin
++ [XueWenLiao](https://github.com/XuewenLiao) 
++ ChengChen 
++ [LuoJie](https://github.com/luojie1024)
++ [LiuDong](https://github.com/1mrliu)  
++ WuQin
 
 ### PREREQUISITES
 - Android 7.0

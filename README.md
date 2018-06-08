@@ -112,11 +112,18 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 
 ### Getting Started
 
+#### step1:
 ```
 # clone this repo
 git clone git@github.com:luojie1024/HACK_GAN_MB.git
 cd HACK_GAN_MB
 ```
+
+#### step2:
+```
+python manage.py runserver
+```
+
 [Server Settings](https://blog.csdn.net/luojie140/article/details/76832749)
 
 ### DataSet

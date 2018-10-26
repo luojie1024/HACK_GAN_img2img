@@ -127,7 +127,7 @@ python manage.py runserver
 [Server Settings](https://blog.csdn.net/luojie140/article/details/76832749)
 
 ### DataSet
-
+### Please use the download_dataset.sh shell scripts to solve dataset can't be download problem!
 | dataset | example |
 | --- | --- |
 | `python tools/download-dataset.py facades` <br> 400 images from [CMP Facades dataset](http://cmp.felk.cvut.cz/~tylecr1/facade/). (31MB) <br> Pre-trained: [BtoA](https://mega.nz/#!H0AmER7Y!pBHcH4M11eiHBmJEWvGr-E_jxK4jluKBUlbfyLSKgpY)  | <img src="docs/facades.jpg" width="256px"/> |

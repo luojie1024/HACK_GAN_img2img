@@ -1,4 +1,4 @@
-# HACK_GAN_MB
+# HACK_GAN_img2img
 
 ![](https://img.shields.io/badge/platform-Ubuntu16.04-green.svg)  ![](https://img.shields.io/badge/language-python3.6-green.svg)   ![](https://img.shields.io/badge/Android-7.0-green.svg) 
 ![](https://img.shields.io/badge/Tensorflow-1.4.1-green.svg)

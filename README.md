@@ -115,7 +115,7 @@ Based on [pix2pix](https://phillipi.github.io/pix2pix/) by Isola et al.
 #### step1:
 ```
 # clone this repo
-git clone git@github.com:luojie1024/HACK_GAN_MB.git
+git clone git@github.com:luojie1024/HACK_GAN_img2img.git
 cd HACK_GAN_MB
 ```
 
